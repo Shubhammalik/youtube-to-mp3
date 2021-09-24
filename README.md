@@ -4,11 +4,11 @@
 
 &nbsp;
 
-
 TRY the youtubeAPI: https://developers.google.com/youtube/v3/code_samples/code_snippets
 
 &nbsp;
 
+&nbsp;
 *************************  INSTALLATION AND RUNNING  *************************
 
 1) Download the project and run the below requirements in the project folder terminal
@@ -81,6 +81,7 @@ FILE: music_download.py
 - The code interacts with site's API and fetches the dynamic link in real time for each mp3 file ID
 - This code is robus enough to handle all the boundary cases of file download, a new json file will be created which will store the download history of all songs
 - The code will fetch new video list every time you run it but will only download the new file added to the playlist/Channel
+
 &nbsp;
 
 &nbsp;
