@@ -15,13 +15,18 @@
 
 4) Under credentials (on google console), go to create credentials (on top)
 	i) Create Authorization ClientID (not used now but will be in future)
+	
 	ii) Download the json file and rename it as authorization.json
+	
 	iii) Create new API key
 
 5) Create new json (api.json) for
 	i) CHANNEL_ID (any youtube channel ID)
+	
 	ii) DEVELOPER_KEY (API Key created above)
+	
 	iii) YOUTUBE_API_SERVICE_NAME: 'youtube'
+	
 	iv) YOUTUBE_API_VERSION: 'v3'
 
 6) Give access to youtube API v3 using the same gmail address
