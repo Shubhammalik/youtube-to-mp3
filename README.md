@@ -1,6 +1,11 @@
 ## YOUTUBE VIDEO TO MP3 PROJECT
 
 ![](https://github.com/Shubhammalik/youtube-to-mp3/blob/main/img/youtube-to-mp3.jpg)
+&nbsp;
+
+&nbsp;
+
+&nbsp;
 
 *************************  INSTALLATION AND RUNNING  *************************
 
@@ -14,6 +19,7 @@
 3) Create Authorization consent screen (under left panel on console OAuth Consent Screen)
 
 4) Under credentials (on google console), go to create credentials (on top)
+
 	i) Create Authorization ClientID (not used now but will be in future)
 	
 	ii) Download the json file and rename it as authorization.json
@@ -21,6 +27,7 @@
 	iii) Create new API key
 
 5) Create new json (api.json) for
+
 	i) CHANNEL_ID (any youtube channel ID)
 	
 	ii) DEVELOPER_KEY (API Key created above)
@@ -37,9 +44,11 @@
 8) Run the code file main.py with variable download_new_data = 1 in main function and ENJOY!!
 
 9) Optional: use "pip freeze > requirements.txt" command without quotes in project terminal to write a new requirement.txt file
+&nbsp;
 
+&nbsp;
 
-
+&nbsp;
 
 *********************************  WORKING  *********************************
 
@@ -71,9 +80,11 @@ FILE: music_download.py
 - The code interacts with site's API and fetches the dynamic link in real time for each mp3 file ID
 - This code is robus enough to handle all the boundary cases of file download, a new json file will be created which will store the download history of all songs
 - The code will fetch new video list every time you run it but will only download the new file added to the playlist/Channel
+&nbsp;
 
+&nbsp;
 
-
+&nbsp;
 
 **************************** OTHER USEFUL ITEMS  *****************************
 
