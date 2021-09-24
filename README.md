@@ -1,5 +1,6 @@
 ## YOUTUBE VIDEO TO MP3 PROJECT
 
+![](https://github.com/Shubhammalik/youtube-to-mp3/blob/main/img/youtube-to-mp3.jpg)
 
 *************************  INSTALLATION AND RUNNING  *************************
 
