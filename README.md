@@ -1,6 +1,12 @@
 ## YOUTUBE VIDEO TO MP3 PROJECT
 
 ![](https://github.com/Shubhammalik/youtube-to-mp3/blob/main/img/youtube-to-mp3.jpg)
+
+&nbsp;
+
+
+TRY the youtubeAPI: https://developers.google.com/youtube/v3/code_samples/code_snippets
+
 &nbsp;
 
 &nbsp;
@@ -52,7 +58,6 @@
 
 *********************************  WORKING  *********************************
 
-TRY the youtubeAPI: https://developers.google.com/youtube/v3/code_samples/code_snippets
 
 
 FILE: main.py
@@ -65,6 +70,9 @@ FILE: generate_environment_variables.py
 - Tests the newly created environment variables
 
 
+&nbsp;
+
+
 FILE: create_youtube_list.py
 - Fetches all the playlist of ChannelID provided as environment variable
 	URL used: https://www.youtube.com/channel/[YOUR_CHANNEL_ID]/playlists
@@ -72,6 +80,7 @@ FILE: create_youtube_list.py
 - Writes the data to a json file for each playlist
 - Checks and loads the json file for the application, create one if not already present
 
+&nbsp;
 
 FILE: music_download.py
 - This is where the FUN begins!
