@@ -12,6 +12,7 @@ TRY the youtubeAPI: https://developers.google.com/youtube/v3/code_samples/code_s
 *************************  INSTALLATION AND RUNNING  *************************
 
 1) Download the project and run the below requirements in the project folder terminal
+	
 	pip install -r /path/to/requirements.txt
 
 1) Sign up if not already a google member (gmail)
