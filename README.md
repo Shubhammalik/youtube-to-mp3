@@ -9,10 +9,6 @@ TRY the youtubeAPI: https://developers.google.com/youtube/v3/code_samples/code_s
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 *************************  INSTALLATION AND RUNNING  *************************
 
 1) Download the project and run the below requirements in the project folder terminal
@@ -50,7 +46,6 @@ TRY the youtubeAPI: https://developers.google.com/youtube/v3/code_samples/code_s
 8) Run the code file main.py with variable download_new_data = 1 in main function and ENJOY!!
 
 9) Optional: use "pip freeze > requirements.txt" command without quotes in project terminal to write a new requirement.txt file
-&nbsp;
 
 &nbsp;
 
@@ -58,20 +53,17 @@ TRY the youtubeAPI: https://developers.google.com/youtube/v3/code_samples/code_s
 
 *********************************  WORKING  *********************************
 
-
-
 FILE: main.py
 - Runs the code and does the job for you
 
+&nbsp;
 
 FILE: generate_environment_variables.py
 - Reads the json data from both the json files and writes the variables into new .env file
 - Check for existing .env file otherwise create a new one and loads them for the project
 - Tests the newly created environment variables
 
-
 &nbsp;
-
 
 FILE: create_youtube_list.py
 - Fetches all the playlist of ChannelID provided as environment variable
@@ -93,8 +85,6 @@ FILE: music_download.py
 
 &nbsp;
 
-&nbsp;
-
 **************************** OTHER USEFUL ITEMS  *****************************
 
 1) Regex Identifier
@@ -112,4 +102,4 @@ https://api.ythub.cc/v1/youtube/get-download-link/?file_id=[FILE_ID_FROM_SITE]
 5) Extracted download link
 https://dl20.ythub.cc/v1/youtube/download/?file_id=[FILE_ID_FROM_SITE]
 
-
+&nbsp;
